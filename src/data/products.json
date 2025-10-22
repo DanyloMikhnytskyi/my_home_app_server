@@ -1,0 +1,38 @@
+[
+  {
+    "id": "p1",
+    "title": "Oatmeal with Banana",
+    "description": "Healthy breakfast with oats, banana, and honey",
+    "meta": {
+      "calories": 350,
+      "carbs": 45,
+      "protein": 12,
+      "fat": 8
+    },
+    "image": "https://example.com/images/oatmeal.jpg"
+  },
+  {
+    "id": "p2",
+    "title": "Chicken Salad",
+    "description": "Grilled chicken with fresh veggies and olive oil",
+    "meta": {
+      "calories": 420,
+      "carbs": 15,
+      "protein": 35,
+      "fat": 20
+    },
+    "image": "https://example.com/images/salad.jpg"
+  },
+  {
+    "id": "p3",
+    "title": "Protein Smoothie",
+    "description": "Banana, protein powder, peanut butter, and milk",
+    "meta": {
+      "calories": 480,
+      "carbs": 40,
+      "protein": 30,
+      "fat": 18
+    },
+    "image": "https://example.com/images/smoothie.jpg"
+  }
+]
