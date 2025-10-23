@@ -3,6 +3,8 @@
   "compilerOptions": {
     "outDir": "./dist",
     "baseUrl": ".",
+    "moduleResolution": "NodeNext",
+    "resolveJsonModule": true,
     "paths": {
       "@/*": ["src/*"]
     }
